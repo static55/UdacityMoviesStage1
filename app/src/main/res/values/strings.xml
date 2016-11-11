@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_order_by_popularity">Order By Popularity</string>
+    <string name="action_order_by_rating">Order By Rating</string>
+    <string name="title_activity_movie_detail">Movie Details</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="movie_backdrop">Movie Backdrop</string>
+    <string name="api_key">insert moviedb api key here</string>
+    <string name="_10">/ 10</string>
+</resources>

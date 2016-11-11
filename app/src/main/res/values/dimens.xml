@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="movieTitleSize">24sp</dimen>
+    <dimen name="releaseDateSize">16sp</dimen>
+    <dimen name="userRatingSize">36sp</dimen>
+    <dimen name="userRatingOf10Size">16sp</dimen>
+    <dimen name="plotSynopsisSize">16sp</dimen>
+</resources>
